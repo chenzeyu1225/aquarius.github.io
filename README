@@ -8,5 +8,9 @@ masterflicts
 master C1!
 master C7!
 
+branch iss53 C2!
+branch iss53 C5!
+branch iss53 C6!
+
 branch master :C5!
 this is a new branch iss53!
