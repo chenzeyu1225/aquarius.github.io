@@ -1,6 +1,6 @@
 My Project!
 #test line
-#branch TEST!
+#modify TEST!
 #git commit -a -m 'test'
 
 masterflicts
@@ -8,12 +8,12 @@ masterflicts
 master C1!
 master C7!
 
-branch iss53 C2!
-branch iss53 C5!
-branch iss53 C6!
+modify iss53 C2!
+modify iss53 C5!
+modify iss53 C6!
 
-branch client C3!
-branch client C4!
+modify client C3!
+modify client C4!
 
-branch master :C5!
-this is a new branch iss53!
+modify master :C5!
+this is a new modify iss53!
